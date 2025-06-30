@@ -1,10 +1,10 @@
 # Interactive-quiz-application
-*Company*:CODTECH IT SOLUTIONS
-*Name*:Yarragunta Naga Sahithi
-*Intern id*:CT04DG2804
-*Domain*:Front end Development
-*Duration*:4 weeks
-*Mentor*:Neela santhosh
+*Company*:CODTECH IT SOLUTIONS.
+*Name*:Yarragunta Naga Sahithi.
+*Intern id*:CT04DG2804.
+*Domain*:Front end Development.
+*Duration*:4 weeks.
+*Mentor*:Neela santhosh.
 
 ##Description:An interactive quiz application is a dynamic platform designed to engage users with a series of questions across various formats—like multiple choice, true/false, fill-in-the-blank, and more—while offering immediate feedback and scoring. Here's what typically defines such an app:
 - User Engagement: Users can participate in quizzes tailored to topics of interest or educational goals, often with timers or gamified elements to keep the experience lively.
