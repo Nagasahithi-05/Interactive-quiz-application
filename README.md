@@ -11,3 +11,8 @@
 - Customization: Admins or educators can create and manage quiz content, including adding images, videos, or audio clips for a richer experience.
 - Progress Tracking: Users can view scores, track progress over time, and sometimes earn badges or level up based on performance.
   It’s widely used in classrooms, training environments, and even for fun trivia games. If you're thinking of building one or need a concept tailored for a specific purpose—say, language learning, corporate training, or pop culture
+
+
+**Output
+
+![Image](https://github.com/user-attachments/assets/94f4a95c-d3e6-45ac-b9bc-c2da36378fa1)``
